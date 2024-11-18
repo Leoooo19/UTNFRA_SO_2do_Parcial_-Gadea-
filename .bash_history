@@ -262,3 +262,86 @@ LS
 ls
 cd ..
 rm -rf RTA_Examen_20241117/.git
+git add .
+git commit -m "parcial terminado"
+git remote add origin 
+git remote add origin https://github.com/Leoooo19/UTNFRA_SO_2do_Parcial_-Gadea-.git
+git push -u origin main
+exit
+bash
+exit
+ls
+cd RTA_Examen_20241117/
+ls
+nano Punto_A.sh 
+cd ..
+ls
+cd UTN-FRA_SO_Examenes/
+ls
+cd 202406
+ls
+cd docker/
+ls
+nano dockerfile 
+ls
+cd RTA_Examen_20241117/
+ls
+nano Punto_A.sh 
+ls
+nano Punto_A.sh 
+nano Punto_B.sh 
+nano Punto_C.sh 
+nano Punto_A.sh 
+nano Punto_B.sh 
+nano Punto_C.sh 
+cd
+exit
+vagrant ssh
+ls
+cd UTN-FRA_SO_Examenes/
+ls
+cd 202406
+ls
+cd ansible/
+ls
+cd roles/
+ls
+cd 2do_parcial/
+ls
+cd templates/
+ls
+nano datos_equipo.txt 
+exit
+cd UTN-FRA_SO_Examenes/
+ls
+cd 202406
+ls
+cd ansible/
+ls
+cd roles/
+ls
+cd 2do_parcial/
+LS
+ls
+cd templates/
+cd
+/UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/templates
+ls
+cd UTN-FRA_SO_Examenes/
+ls
+cd 202406
+ls
+cd ansible/
+ls
+cd roles/
+ls
+cd 2do_parcial/
+ls
+cd templates/
+ls
+nano datos_equipo.txt 
+cd
+git init
+git clone https://github.com/Leoooo19/UTNFRA_SO_2do_Parcial_-Gadea-.git
+git init
+ls
