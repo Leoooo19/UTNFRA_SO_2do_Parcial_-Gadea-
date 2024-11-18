@@ -345,3 +345,30 @@ git init
 git clone https://github.com/Leoooo19/UTNFRA_SO_2do_Parcial_-Gadea-.git
 git init
 ls
+git add .
+git commit -m "Add: Entrega de segundo parcial"
+git branch -M main
+git remote add origin main
+git remote add origin
+git remote add origin https://github.com/Leoooo19/UTNFRA_SO_2do_Parcial_-Gadea-.git
+git push -u origin main
+git remote add origin https://github.com/Leoooo19/UTNFRA_SO_2do_Parcial_-Gadea-.git
+git init
+ls -la
+git add RTA_Examen_20241117/
+cd UTN-FRA_SO_Examenes/
+ls
+mv 202406 ../
+cd
+ls
+git add 202406/
+git status
+ls
+cd RTA_Examen_20241117/
+ls
+nano Punto_D.sh 
+ls
+cd
+ls
+git add RTA_Examen_20241117/
+git status
